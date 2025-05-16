@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying Computer Science Engineering at The Ohio State University.<br>.🔭 I’m currently working on my own portfolio website and a app idea with friends!
+🌱 Studying Computer Science Engineering at The Ohio State University.<br>🔭 Working on my own portfolio website and an app idea with friends!<br>🤔 Learning more about automated testing using Python.
 
 
 ## 🌐 Socials:
